@@ -4,7 +4,7 @@ import skimage.io as io
 import numpy as np
 import pdb
 
-training_data="../dataset"
+training_data="../../dataset"
 
 def generate_stat(label_file_lists):
 	label_list=[]
